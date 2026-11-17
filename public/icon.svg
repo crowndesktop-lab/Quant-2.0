@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#090514" />
+    </radialGradient>
+    <linearGradient id="wingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="50%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background base -->
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="4" />
+
+  <!-- Inner glowing ring -->
+  <circle cx="256" cy="256" r="210" fill="none" stroke="#6366f1" stroke-width="1.5" stroke-dasharray="10 15" opacity="0.4" />
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#8b5cf6" stroke-width="1" opacity="0.2" />
+
+  <!-- Geometric Abstract Eagle (Hermes Winged Logo) -->
+  <g transform="translate(256, 260)" filter="url(#glow)">
+    <!-- Main Center Body / Beak -->
+    <path d="M0,-110 L15,-40 L0,-15 L-15,-40 Z" fill="#ffffff" opacity="0.95" />
+    
+    <!-- Outer Wing Left Tier 1 -->
+    <path d="M-15,-40 L-140,-95 L-110,-15 L-15,-15 Z" fill="url(#wingGrad)" />
+    <!-- Outer Wing Right Tier 1 -->
+    <path d="M15,-40 L140,-95 L110,-15 L15,-15 Z" fill="url(#wingGrad)" />
+
+    <!-- Wing Left Tier 2 -->
+    <path d="M-15,-15 L-100,-10 L-60,35 L-15,10 Z" fill="url(#wingGrad)" opacity="0.8" />
+    <!-- Wing Right Tier 2 -->
+    <path d="M15,-15 L100,-10 L60,35 L15,10 Z" fill="url(#wingGrad)" opacity="0.8" />
+
+    <!-- Wing Left Tier 3 (Tail/Bottom) -->
+    <path d="M-15,10 L-50,60 L0,90 L0,30 Z" fill="url(#wingGrad)" opacity="0.6" />
+    <!-- Wing Right Tier 3 (Tail/Bottom) -->
+    <path d="M15,10 L50,60 L0,90 L0,30 Z" fill="url(#wingGrad)" opacity="0.6" />
+
+    <!-- Highlight core -->
+    <circle cx="0" cy="-40" r="8" fill="#a855f7" />
+  </g>
+</svg>

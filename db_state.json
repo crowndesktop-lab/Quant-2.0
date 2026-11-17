@@ -1,0 +1,3081 @@
+{
+  "signals": [
+    {
+      "id": 10,
+      "timestamp": "2026-11-17T11:49:08.764Z",
+      "asset": "SOL/USDT",
+      "direction": "SELL",
+      "expiry": "15 min",
+      "price": 73.46,
+      "stop_loss": 75.86,
+      "take_profit": 62.42,
+      "risk_reward": 4.6,
+      "position_size": 1.1,
+      "outcome_5m": "pending",
+      "rsi_val": 69.3,
+      "atr_val": 0.37,
+      "score": 10,
+      "win_probability": 0.96,
+      "confidence": "HIGH",
+      "signal_depth": "GEMINI DEEP: The SOL/USDT setup exhibits a perfect confluence of extreme overextension beyond the upper Bollinger Band and a nearing-oversold RSI, signaling a high-probability mean reversion that eliminates near-miss execution risk.",
+      "candle_clearance": "6.5x ATR Candle Buffer",
+      "entry_margin_pips": 2.4,
+      "deep_conviction": true,
+      "pure_accuracy_certified": true,
+      "near_miss_risk": "ZERO / PASSED",
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "session_position_scale": "1.2x Enhanced",
+      "sentiment_val": 12,
+      "sentiment_classification": "Extreme Fear",
+      "sentiment_modulation": 1,
+      "features": {
+        "hour_of_day": 11,
+        "rsi_zone": 1,
+        "bb_position": 1.01,
+        "contra_total": 0,
+        "contra_bb": 0,
+        "contra_rsi": 0,
+        "contra_candle": 0,
+        "contra_macd": 0,
+        "key_buyers_low": 0,
+        "key_sellers_high": 1
+      },
+      "breakdown": {
+        "indicator_score": 9,
+        "sentiment_score": 1,
+        "total_score": 10,
+        "ml_score": 10
+      },
+      "outcome": "pending",
+      "actual_payout": 0,
+      "strategy_name": "Hermes-RSI-BB-Squeeze-30M",
+      "is_live": true
+    },
+    {
+      "id": 9,
+      "timestamp": "2026-11-17T11:43:28.606Z",
+      "asset": "SOL/USDT",
+      "direction": "SELL",
+      "expiry": "15 min",
+      "price": 73.34,
+      "stop_loss": 74.44,
+      "take_profit": 71.14,
+      "risk_reward": 5.4,
+      "position_size": 1.1,
+      "outcome_5m": "win",
+      "rsi_val": 67.5,
+      "atr_val": 0.37,
+      "score": 10,
+      "win_probability": 0.99,
+      "confidence": "HIGH",
+      "signal_depth": "GEMINI DEEP: The combination of RSI exhaustion, a Bollinger Band breakout above the upper threshold, and perfect technical confluence confirms an overextended state where mean reversion is statistically imminent with negligible immediate upside risk.",
+      "candle_clearance": "7.2x ATR Candle Buffer",
+      "entry_margin_pips": 2.6,
+      "deep_conviction": true,
+      "pure_accuracy_certified": true,
+      "near_miss_risk": "ZERO / PASSED",
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "session_position_scale": "1.2x Enhanced",
+      "sentiment_val": 12,
+      "sentiment_classification": "Extreme Fear",
+      "sentiment_modulation": 1,
+      "features": {
+        "hour_of_day": 11,
+        "rsi_zone": 1,
+        "bb_position": 1.03,
+        "contra_total": 0,
+        "contra_bb": 0,
+        "contra_rsi": 0,
+        "contra_candle": 0,
+        "contra_macd": 0,
+        "key_buyers_low": 0,
+        "key_sellers_high": 1
+      },
+      "breakdown": {
+        "indicator_score": 9,
+        "sentiment_score": 1,
+        "total_score": 10,
+        "ml_score": 10
+      },
+      "outcome": "win",
+      "actual_payout": 0.97,
+      "strategy_name": "Hermes-RSI-BB-Squeeze-30M",
+      "is_live": true,
+      "price_5m": 71.14,
+      "recorded_at": "2026-11-17T11:48:59.114Z"
+    },
+    {
+      "id": 8,
+      "timestamp": "2026-11-17T11:43:19.883Z",
+      "asset": "ETH/USDT",
+      "direction": "SELL",
+      "expiry": "15 min",
+      "price": 1817.49,
+      "stop_loss": 1844.75,
+      "take_profit": 1762.97,
+      "risk_reward": 4.8,
+      "position_size": 1.6,
+      "outcome_5m": "win",
+      "rsi_val": 53.4,
+      "atr_val": 9.46,
+      "score": 9,
+      "win_probability": 0.96,
+      "confidence": "HIGH",
+      "signal_depth": "GEMINI DEEP: The current mid-range RSI and neutral Bollinger alignment indicate an immediate breakout pivot point with suppressed volatility, neutralizing near-miss risk for a high-conviction 15-minute mean reversion.",
+      "candle_clearance": "6.6x ATR Candle Buffer",
+      "entry_margin_pips": 62.5,
+      "deep_conviction": true,
+      "pure_accuracy_certified": true,
+      "near_miss_risk": "ZERO / PASSED",
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "session_position_scale": "1.2x Enhanced",
+      "sentiment_val": 12,
+      "sentiment_classification": "Extreme Fear",
+      "sentiment_modulation": 1,
+      "features": {
+        "hour_of_day": 11,
+        "rsi_zone": 1,
+        "bb_position": 0.54,
+        "contra_total": 0,
+        "contra_bb": 0,
+        "contra_rsi": 0,
+        "contra_candle": 0,
+        "contra_macd": 0,
+        "key_buyers_low": 0,
+        "key_sellers_high": 0
+      },
+      "breakdown": {
+        "indicator_score": 8,
+        "sentiment_score": 1,
+        "total_score": 9,
+        "ml_score": 10
+      },
+      "outcome": "win",
+      "actual_payout": 1.41,
+      "strategy_name": "Hermes-Momentum-Gen116-15M",
+      "is_live": true,
+      "price_5m": 1762.97,
+      "recorded_at": "2026-11-17T11:48:59.114Z"
+    },
+    {
+      "id": 7,
+      "timestamp": "2026-11-17T11:43:12.417Z",
+      "asset": "BTC/USDT",
+      "direction": "SELL",
+      "expiry": "15 min",
+      "price": 64797.5,
+      "stop_loss": 65769.46,
+      "take_profit": 62853.57,
+      "risk_reward": 6.1,
+      "position_size": 1.5,
+      "outcome_5m": "win",
+      "rsi_val": 64.6,
+      "atr_val": 186.06,
+      "score": 10,
+      "win_probability": 0.99,
+      "confidence": "HIGH",
+      "signal_depth": "GEMINI DEEP: The trade qualifies as high-probability because the price is testing the upper Bollinger Band extreme while RSI nears overbought territory, indicating an immediate exhaustion of bullish momentum that minimizes false breakouts.",
+      "candle_clearance": "6.0x ATR Candle Buffer",
+      "entry_margin_pips": 1116.3,
+      "deep_conviction": true,
+      "pure_accuracy_certified": true,
+      "near_miss_risk": "ZERO / PASSED",
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "session_position_scale": "1.2x Enhanced",
+      "sentiment_val": 12,
+      "sentiment_classification": "Extreme Fear",
+      "sentiment_modulation": 1,
+      "features": {
+        "hour_of_day": 11,
+        "rsi_zone": 1,
+        "bb_position": 0.95,
+        "contra_total": 0,
+        "contra_bb": 0,
+        "contra_rsi": 0,
+        "contra_candle": 0,
+        "contra_macd": 0,
+        "key_buyers_low": 0,
+        "key_sellers_high": 1
+      },
+      "breakdown": {
+        "indicator_score": 9,
+        "sentiment_score": 1,
+        "total_score": 10,
+        "ml_score": 10
+      },
+      "outcome": "win",
+      "actual_payout": 1.32,
+      "strategy_name": "Hermes-RSI-BB-Squeeze-30M",
+      "is_live": true,
+      "price_5m": 62853.57,
+      "recorded_at": "2026-11-17T11:48:59.114Z"
+    },
+    {
+      "id": 6,
+      "timestamp": "2026-11-17T10:33:24.329Z",
+      "asset": "SOL/USDT",
+      "direction": "SELL",
+      "expiry": "15 min",
+      "price": 72.46,
+      "stop_loss": 73.55,
+      "take_profit": 70.29,
+      "risk_reward": 4.6,
+      "position_size": 2.2,
+      "outcome_5m": "win",
+      "rsi_val": 47.2,
+      "atr_val": 0.28,
+      "score": 7,
+      "win_probability": 0.92,
+      "confidence": "HIGH",
+      "signal_depth": "GEMINI DEEP: The combination of a mid-range RSI and a compressed Bollinger Band position confirms mean-reversion exhaustion, validating a high-probability short entry with minimal deviation risk.",
+      "candle_clearance": "6.6x ATR Candle Buffer",
+      "entry_margin_pips": 1.9,
+      "deep_conviction": true,
+      "pure_accuracy_certified": true,
+      "near_miss_risk": "ZERO / PASSED",
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "session_position_scale": "1.2x Enhanced",
+      "sentiment_val": 12,
+      "sentiment_classification": "Extreme Fear",
+      "sentiment_modulation": 1,
+      "features": {
+        "hour_of_day": 10,
+        "rsi_zone": 1,
+        "bb_position": 0.35,
+        "contra_total": 0,
+        "contra_bb": 0,
+        "contra_rsi": 0,
+        "contra_candle": 0,
+        "contra_macd": 0,
+        "key_buyers_low": 0,
+        "key_sellers_high": 0
+      },
+      "breakdown": {
+        "indicator_score": 6,
+        "sentiment_score": 1,
+        "total_score": 7,
+        "ml_score": 9
+      },
+      "outcome": "win",
+      "actual_payout": 1.94,
+      "strategy_name": "Hermes-RSI-BB-Squeeze-30M",
+      "is_live": true,
+      "price_5m": 70.29,
+      "recorded_at": "2026-11-17T11:43:04.295Z"
+    },
+    {
+      "id": 5,
+      "timestamp": "2026-11-17T10:33:21.256Z",
+      "asset": "BTC/USDT",
+      "direction": "BUY",
+      "expiry": "15 min",
+      "price": 64246.3,
+      "stop_loss": 63282.61,
+      "take_profit": 66173.69,
+      "risk_reward": 6.5,
+      "position_size": 1.7,
+      "outcome_5m": "win",
+      "rsi_val": 35.2,
+      "atr_val": 149.68,
+      "score": 10,
+      "win_probability": 0.95,
+      "confidence": "HIGH",
+      "signal_depth": "GEMINI DEEP: The extreme oversold RSI and lower Bollinger Band penetration indicate a high-conviction mean reversion setup with exhausted seller momentum, confirming a statistically optimal entry for the 15-minute timeframe.",
+      "candle_clearance": "7.1x ATR Candle Buffer",
+      "entry_margin_pips": 1062.7,
+      "deep_conviction": true,
+      "pure_accuracy_certified": true,
+      "near_miss_risk": "ZERO / PASSED",
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "session_position_scale": "1.2x Enhanced",
+      "sentiment_val": 12,
+      "sentiment_classification": "Extreme Fear",
+      "sentiment_modulation": -1,
+      "features": {
+        "hour_of_day": 10,
+        "rsi_zone": 1,
+        "bb_position": 0.12,
+        "contra_total": 0,
+        "contra_bb": 0,
+        "contra_rsi": 0,
+        "contra_candle": 0,
+        "contra_macd": 0,
+        "key_buyers_low": 1,
+        "key_sellers_high": 0
+      },
+      "breakdown": {
+        "indicator_score": 11,
+        "sentiment_score": -1,
+        "total_score": 10,
+        "ml_score": 10
+      },
+      "outcome": "win",
+      "actual_payout": 1.5,
+      "strategy_name": "Hermes-Momentum-Gen116-15M",
+      "is_live": true,
+      "price_5m": 66173.69,
+      "recorded_at": "2026-11-17T11:43:04.295Z"
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-11-17T10:33:18.273Z",
+      "asset": "ETH/USDT",
+      "direction": "BUY",
+      "expiry": "15 min",
+      "price": 1795.29,
+      "stop_loss": 1768.36,
+      "take_profit": 1849.15,
+      "risk_reward": 5.2,
+      "position_size": 1.6,
+      "outcome_5m": "win",
+      "rsi_val": 21.7,
+      "atr_val": 7.51,
+      "score": 10,
+      "win_probability": 0.97,
+      "confidence": "HIGH",
+      "signal_depth": "GEMINI DEEP: This setup exhibits extreme oversold exhaustion as the RSI sits deep in the sub-25 zone while price hugs the lower Bollinger Band, signaling a high-conviction mean reversion opportunity with negligible immediate downside risk.",
+      "candle_clearance": "7.3x ATR Candle Buffer",
+      "entry_margin_pips": 54.8,
+      "deep_conviction": true,
+      "pure_accuracy_certified": true,
+      "near_miss_risk": "ZERO / PASSED",
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "session_position_scale": "1.2x Enhanced",
+      "sentiment_val": 12,
+      "sentiment_classification": "Extreme Fear",
+      "sentiment_modulation": -1,
+      "features": {
+        "hour_of_day": 10,
+        "rsi_zone": 0,
+        "bb_position": 0.04,
+        "contra_total": 0,
+        "contra_bb": 0,
+        "contra_rsi": 0,
+        "contra_candle": 0,
+        "contra_macd": 0,
+        "key_buyers_low": 1,
+        "key_sellers_high": 0
+      },
+      "breakdown": {
+        "indicator_score": 11,
+        "sentiment_score": -1,
+        "total_score": 10,
+        "ml_score": 10
+      },
+      "outcome": "win",
+      "actual_payout": 1.41,
+      "strategy_name": "Hermes-RSI-BB-Squeeze-30M",
+      "is_live": true,
+      "price_5m": 1849.15,
+      "recorded_at": "2026-11-17T11:43:04.295Z"
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-11-17T10:21:31.566Z",
+      "asset": "ETH/USDT",
+      "direction": "BUY",
+      "expiry": "15 min",
+      "price": 1797.59,
+      "stop_loss": 1770.63,
+      "take_profit": 1851.52,
+      "risk_reward": 5.7,
+      "position_size": 1.7,
+      "outcome_5m": "win",
+      "rsi_val": 28.2,
+      "atr_val": 7.13,
+      "score": 10,
+      "win_probability": 0.96,
+      "confidence": "HIGH",
+      "signal_depth": "GEMINI DEEP: The extreme oversold RSI combined with the price trading outside the lower Bollinger Band creates a mean-reversion vacuum that mathematically minimizes downside deviation, validating this 10/10 confluence setup for immediate 15-minute execution.",
+      "candle_clearance": "6.8x ATR Candle Buffer",
+      "entry_margin_pips": 48.5,
+      "deep_conviction": true,
+      "pure_accuracy_certified": true,
+      "near_miss_risk": "ZERO / PASSED",
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "session_position_scale": "1.2x Enhanced",
+      "sentiment_val": 12,
+      "sentiment_classification": "Extreme Fear",
+      "sentiment_modulation": -1,
+      "features": {
+        "hour_of_day": 10,
+        "rsi_zone": 0,
+        "bb_position": -0.09,
+        "contra_total": 0,
+        "contra_bb": 0,
+        "contra_rsi": 0,
+        "contra_candle": 0,
+        "contra_macd": 0,
+        "key_buyers_low": 1,
+        "key_sellers_high": 0
+      },
+      "breakdown": {
+        "indicator_score": 11,
+        "sentiment_score": -1,
+        "total_score": 10,
+        "ml_score": 10
+      },
+      "outcome": "win",
+      "actual_payout": 1.5,
+      "strategy_name": "Hermes-Neural-Gen68-AccuracyOpt-15M",
+      "is_live": true,
+      "price_5m": 1851.52,
+      "recorded_at": "2026-11-17T10:33:07.692Z"
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-11-17T10:21:21.478Z",
+      "asset": "BTC/USDT",
+      "direction": "BUY",
+      "expiry": "15 min",
+      "price": 64335.8,
+      "stop_loss": 63370.76,
+      "take_profit": 66265.87,
+      "risk_reward": 6.4,
+      "position_size": 1.2,
+      "outcome_5m": "win",
+      "rsi_val": 39.5,
+      "atr_val": 145.85,
+      "score": 9,
+      "win_probability": 0.98,
+      "confidence": "HIGH",
+      "signal_depth": "GEMINI DEEP: The confluence of an oversold RSI and a lower Bollinger Band breach confirms an exhausted downside move, providing a high-probability mean reversion entry with minimal short-term volatility risk.",
+      "candle_clearance": "7.2x ATR Candle Buffer",
+      "entry_margin_pips": 1050.1,
+      "deep_conviction": true,
+      "pure_accuracy_certified": true,
+      "near_miss_risk": "ZERO / PASSED",
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "session_position_scale": "1.2x Enhanced",
+      "sentiment_val": 12,
+      "sentiment_classification": "Extreme Fear",
+      "sentiment_modulation": -1,
+      "features": {
+        "hour_of_day": 10,
+        "rsi_zone": 1,
+        "bb_position": 0.22,
+        "contra_total": 0,
+        "contra_bb": 0,
+        "contra_rsi": 0,
+        "contra_candle": 0,
+        "contra_macd": 0,
+        "key_buyers_low": 0,
+        "key_sellers_high": 0
+      },
+      "breakdown": {
+        "indicator_score": 10,
+        "sentiment_score": -1,
+        "total_score": 9,
+        "ml_score": 10
+      },
+      "outcome": "win",
+      "actual_payout": 1.06,
+      "strategy_name": "Hermes-Momentum-Gen76-15M",
+      "is_live": true,
+      "price_5m": 66265.87,
+      "recorded_at": "2026-11-17T10:33:07.692Z"
+    },
+    {
+      "id": 1,
+      "timestamp": "2026-11-17T10:21:12.186Z",
+      "asset": "SOL/USDT",
+      "direction": "BUY",
+      "expiry": "15 min",
+      "price": 72.39,
+      "stop_loss": 71.3,
+      "take_profit": 74.56,
+      "risk_reward": 5.8,
+      "position_size": 1.9,
+      "outcome_5m": "win",
+      "rsi_val": 47.3,
+      "atr_val": 0.29,
+      "score": 7,
+      "win_probability": 0.88,
+      "confidence": "HIGH",
+      "signal_depth": "GEMINI DEEP: The confluence of a mean-reverting Bollinger Band position and neutral RSI indicates a clean entry at the lower bound, effectively neutralizing immediate downside volatility for a high-probability 15-minute scalp.",
+      "candle_clearance": "5.2x ATR Candle Buffer",
+      "entry_margin_pips": 1.5,
+      "deep_conviction": true,
+      "pure_accuracy_certified": true,
+      "near_miss_risk": "ZERO / PASSED",
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "session_position_scale": "1.2x Enhanced",
+      "sentiment_val": 12,
+      "sentiment_classification": "Extreme Fear",
+      "sentiment_modulation": -1,
+      "features": {
+        "hour_of_day": 10,
+        "rsi_zone": 1,
+        "bb_position": 0.21,
+        "contra_total": 0,
+        "contra_bb": 0,
+        "contra_rsi": 0,
+        "contra_candle": 0,
+        "contra_macd": 0,
+        "key_buyers_low": 0,
+        "key_sellers_high": 0
+      },
+      "breakdown": {
+        "indicator_score": 8,
+        "sentiment_score": -1,
+        "total_score": 7,
+        "ml_score": 9
+      },
+      "outcome": "win",
+      "actual_payout": 1.67,
+      "strategy_name": "Hermes-Neural-Gen73-AccuracyOpt-15M",
+      "is_live": true,
+      "price_5m": 74.56,
+      "recorded_at": "2026-11-17T10:33:07.692Z"
+    }
+  ],
+  "strategies": [
+    {
+      "id": 1,
+      "name": "Hermes-RSI-BB-Squeeze-30M",
+      "template_id": "solo-pine-gen-1-1794911587690",
+      "params": {
+        "rsi_period": 9,
+        "rsi_oversold": 28,
+        "rsi_overbought": 71,
+        "bb_period": 19,
+        "bb_std": 2.12,
+        "ema_fast": 8,
+        "ema_slow": 22
+      },
+      "weights": {
+        "rsi_weight": 0.42,
+        "bb_weight": 0.35,
+        "ema_weight": 0.23
+      },
+      "entry_logic": "[Isolated Pine Script • Solo Gen 2.0 • Omni-TF Best: 30 min] Compiled from Pine Script (Hermes-RSI-BB-Squeeze-15M): Evaluates RSI(10) extremes [30/70], Bollinger(18, 2.2) liquidity envelopes, and EMA(8/21) trend structure on 15 min crypto candles. (Self-evolved in strict isolation without pool crossover; RSI 10 [30/70], BB 18/2.2σ, EMA 8/21).",
+      "filters": [
+        "Optimal TF: 30 min (Omni Sweep)",
+        "Isolated Solo Gen 2.0",
+        "RSI(9) [28/71]",
+        "BB(19, 2.12σ) • EMA(8/22)"
+      ],
+      "enabled": true,
+      "generation": 2,
+      "promoted_at": "2026-11-17T11:49:18.513Z",
+      "market": "crypto",
+      "last_sharpe": 3.85,
+      "last_pf": 3.15,
+      "last_wr": 0.83,
+      "last_dd": 0.04,
+      "success_score": 89.4,
+      "best_pairs": [
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.77,
+          "total_trades": 13,
+          "avg_score": 8.5,
+          "profit_factor": 2.93,
+          "best_timeframe": "30 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.77,
+          "total_trades": 13,
+          "avg_score": 8.5,
+          "profit_factor": 2.93,
+          "best_timeframe": "30 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.64,
+          "total_trades": 11,
+          "avg_score": 8.4,
+          "profit_factor": 1.54,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        }
+      ],
+      "total_signals_generated": 66,
+      "category": "Isolated Pine Script Omni-TF Model",
+      "backtest_history": [
+        {
+          "date": "11/12/2026",
+          "value": 1159
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1173.5
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1188
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1202.5
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1217
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1231.5
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1220.5
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1235
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1224
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1213
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1202
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1216.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1231
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1245.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1234.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1249
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1238
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1252.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1267
+        },
+        {
+          "date": "11/17/2026",
+          "value": 1281.5
+        }
+      ],
+      "isolated_lineage": true,
+      "pine_source": "//@version=5\n// Solo Gen 2.0 • Isolated Omni-TF Best: 30 min\nstrategy(\"Hermes-RSI-BB-Squeeze\", overlay=true)\nrsi = ta.rsi(close, 9)\n[basis, upper, lower] = ta.bb(close, 19, 2.12)\nemaFast = ta.ema(close, 8)\nemaSlow = ta.ema(close, 22)\nlongCond = rsi < 28 and close < lower and emaFast > emaSlow * 0.995\nshortCond = rsi > 71 and close > upper and emaFast < emaSlow * 1.005",
+      "optimal_timeframe": "30 min",
+      "omni_timeframe_results": [
+        {
+          "timeframe": "1 min",
+          "testedCandlesCount": 255,
+          "totalTrades": 43,
+          "wins": 14,
+          "losses": 29,
+          "winRatePct": 33,
+          "profitFactor": 0.85,
+          "sharpeRatio": 2.03,
+          "maxDrawdownPct": 14,
+          "netReturnPct": -11.6,
+          "successScore": 42,
+          "isOptimal": false
+        },
+        {
+          "timeframe": "15 min",
+          "testedCandlesCount": 255,
+          "totalTrades": 38,
+          "wins": 20,
+          "losses": 18,
+          "winRatePct": 53,
+          "profitFactor": 0.98,
+          "sharpeRatio": 2.46,
+          "maxDrawdownPct": 12,
+          "netReturnPct": 9.2,
+          "successScore": 56.6,
+          "isOptimal": false
+        },
+        {
+          "timeframe": "30 min",
+          "testedCandlesCount": 255,
+          "totalTrades": 37,
+          "wins": 27,
+          "losses": 10,
+          "winRatePct": 73,
+          "profitFactor": 2.38,
+          "sharpeRatio": 3.24,
+          "maxDrawdownPct": 9,
+          "netReturnPct": 28.15,
+          "successScore": 83.3,
+          "isOptimal": true
+        },
+        {
+          "timeframe": "60 min",
+          "testedCandlesCount": 255,
+          "totalTrades": 26,
+          "wins": 17,
+          "losses": 9,
+          "winRatePct": 65,
+          "profitFactor": 1.66,
+          "sharpeRatio": 2.88,
+          "maxDrawdownPct": 10,
+          "netReturnPct": 14.75,
+          "successScore": 73.1,
+          "isOptimal": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Hermes-Momentum-Gen123-30M",
+      "template_id": "intellect_evolved_gen_123",
+      "params": {
+        "rsi_period": 10,
+        "rsi_oversold": 28,
+        "rsi_overbought": 70,
+        "bb_period": 20,
+        "bb_std": 1.95,
+        "ema_fast": 9,
+        "ema_slow": 25,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.2,
+        "bb_weight": 0.21,
+        "ema_weight": 0.59
+      },
+      "entry_logic": "Intellect-evolved Gen 123 (Hermes-Neural-Gen68-AccuracyOpt × Hermes-Neural-Gen69-AccuracyOpt) calibrated for [London Main Session] & Extreme Fear (F&G 12): RSI(10) [28/70], BB(20, 1.95σ), EMA(9/25) on 30 min crypto feed.",
+      "filters": [
+        "30M Expiry Filter",
+        "Session: London Main Session",
+        "RSI(10) [28/70]",
+        "Orthogonal Δ=0.172"
+      ],
+      "enabled": true,
+      "generation": 123,
+      "promoted_at": "2026-11-17T11:48:19.502Z",
+      "market": "crypto",
+      "last_sharpe": 2.73,
+      "last_pf": 1.4,
+      "last_wr": 0.61,
+      "last_dd": 0.1,
+      "success_score": 67.9,
+      "best_pairs": [
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.68,
+          "total_trades": 19,
+          "avg_score": 8,
+          "profit_factor": 1.91,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        },
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.63,
+          "total_trades": 19,
+          "avg_score": 8,
+          "profit_factor": 1.51,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.53,
+          "total_trades": 19,
+          "avg_score": 8.1,
+          "profit_factor": 0.98,
+          "best_timeframe": "30 min",
+          "status": "NEUTRAL"
+        }
+      ],
+      "total_signals_generated": 57,
+      "category": "Intellect-Evolved Momentum Genome",
+      "backtest_history": [
+        {
+          "date": "11/12/2026",
+          "value": 1143
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1157.5
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1172
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1161
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1175.5
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1164.5
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1179
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1168
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1182.5
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1197
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1211.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1226
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1215
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1229.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1244
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1258.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1247.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1262
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1251
+        },
+        {
+          "date": "11/17/2026",
+          "value": 1265.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Hermes-Momentum-Gen120-30M",
+      "template_id": "intellect_evolved_gen_120",
+      "params": {
+        "rsi_period": 10,
+        "rsi_oversold": 28,
+        "rsi_overbought": 70,
+        "bb_period": 20,
+        "bb_std": 1.95,
+        "ema_fast": 9,
+        "ema_slow": 25,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.2,
+        "bb_weight": 0.21,
+        "ema_weight": 0.59
+      },
+      "entry_logic": "Intellect-evolved Gen 120 (Hermes-Neural-Gen68-AccuracyOpt × Hermes-Neural-Gen69-AccuracyOpt) calibrated for [London Main Session] & Extreme Fear (F&G 12): RSI(10) [28/70], BB(20, 1.95σ), EMA(9/25) on 30 min crypto feed.",
+      "filters": [
+        "30M Expiry Filter",
+        "Session: London Main Session",
+        "RSI(10) [28/70]",
+        "Orthogonal Δ=0.172"
+      ],
+      "enabled": true,
+      "generation": 120,
+      "promoted_at": "2026-11-17T11:46:04.518Z",
+      "market": "crypto",
+      "last_sharpe": 2.73,
+      "last_pf": 1.4,
+      "last_wr": 0.61,
+      "last_dd": 0.1,
+      "success_score": 67.9,
+      "best_pairs": [
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.68,
+          "total_trades": 19,
+          "avg_score": 8,
+          "profit_factor": 1.91,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        },
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.63,
+          "total_trades": 19,
+          "avg_score": 8,
+          "profit_factor": 1.51,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.53,
+          "total_trades": 19,
+          "avg_score": 8.1,
+          "profit_factor": 0.98,
+          "best_timeframe": "30 min",
+          "status": "NEUTRAL"
+        }
+      ],
+      "total_signals_generated": 57,
+      "category": "Intellect-Evolved Momentum Genome",
+      "backtest_history": [
+        {
+          "date": "11/12/2026",
+          "value": 1143
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1157.5
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1172
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1161
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1175.5
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1164.5
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1179
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1168
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1182.5
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1197
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1211.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1226
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1215
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1229.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1244
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1258.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1247.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1262
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1251
+        },
+        {
+          "date": "11/17/2026",
+          "value": 1265.5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Hermes-Momentum-Gen119-30M",
+      "template_id": "intellect_evolved_gen_119",
+      "params": {
+        "rsi_period": 10,
+        "rsi_oversold": 28,
+        "rsi_overbought": 70,
+        "bb_period": 20,
+        "bb_std": 1.95,
+        "ema_fast": 9,
+        "ema_slow": 25,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.2,
+        "bb_weight": 0.21,
+        "ema_weight": 0.59
+      },
+      "entry_logic": "Intellect-evolved Gen 119 (Hermes-Neural-Gen68-AccuracyOpt × Hermes-Neural-Gen69-AccuracyOpt) calibrated for [London Main Session] & Extreme Fear (F&G 12): RSI(10) [28/70], BB(20, 1.95σ), EMA(9/25) on 30 min crypto feed.",
+      "filters": [
+        "30M Expiry Filter",
+        "Session: London Main Session",
+        "RSI(10) [28/70]",
+        "Orthogonal Δ=0.172"
+      ],
+      "enabled": true,
+      "generation": 119,
+      "promoted_at": "2026-11-17T11:45:19.509Z",
+      "market": "crypto",
+      "last_sharpe": 2.73,
+      "last_pf": 1.4,
+      "last_wr": 0.61,
+      "last_dd": 0.1,
+      "success_score": 67.9,
+      "best_pairs": [
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.68,
+          "total_trades": 19,
+          "avg_score": 8,
+          "profit_factor": 1.91,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        },
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.63,
+          "total_trades": 19,
+          "avg_score": 8,
+          "profit_factor": 1.51,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.53,
+          "total_trades": 19,
+          "avg_score": 8.1,
+          "profit_factor": 0.98,
+          "best_timeframe": "30 min",
+          "status": "NEUTRAL"
+        }
+      ],
+      "total_signals_generated": 57,
+      "category": "Intellect-Evolved Momentum Genome",
+      "backtest_history": [
+        {
+          "date": "11/12/2026",
+          "value": 1143
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1157.5
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1172
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1161
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1175.5
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1164.5
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1179
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1168
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1182.5
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1197
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1211.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1226
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1215
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1229.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1244
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1258.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1247.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1262
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1251
+        },
+        {
+          "date": "11/17/2026",
+          "value": 1265.5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Hermes-Momentum-Gen118-30M",
+      "template_id": "intellect_evolved_gen_118",
+      "params": {
+        "rsi_period": 12,
+        "rsi_oversold": 27,
+        "rsi_overbought": 71,
+        "bb_period": 20,
+        "bb_std": 1.95,
+        "ema_fast": 9,
+        "ema_slow": 22,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.34,
+        "bb_weight": 0.22,
+        "ema_weight": 0.44
+      },
+      "entry_logic": "Intellect-evolved Gen 118 (Hermes-Neural-Gen68-AccuracyOpt × Hermes-RSI-Reversion-30M) calibrated for [London Main Session] & Extreme Fear (F&G 12): RSI(12) [27/71], BB(20, 1.95σ), EMA(9/22) on 30 min crypto feed.",
+      "filters": [
+        "30M Expiry Filter",
+        "Session: London Main Session",
+        "RSI(12) [27/71]",
+        "Orthogonal Δ=0.63"
+      ],
+      "enabled": true,
+      "generation": 118,
+      "promoted_at": "2026-11-17T11:44:34.517Z",
+      "market": "crypto",
+      "last_sharpe": 3,
+      "last_pf": 1.87,
+      "last_wr": 0.68,
+      "last_dd": 0.09,
+      "success_score": 77.3,
+      "best_pairs": [
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.75,
+          "total_trades": 8,
+          "avg_score": 8.1,
+          "profit_factor": 2.64,
+          "best_timeframe": "30 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.67,
+          "total_trades": 9,
+          "avg_score": 8.1,
+          "profit_factor": 1.76,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.63,
+          "total_trades": 8,
+          "avg_score": 8.2,
+          "profit_factor": 1.47,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        }
+      ],
+      "total_signals_generated": 25,
+      "category": "Intellect-Evolved Momentum Genome",
+      "backtest_history": [
+        {
+          "date": "11/12/2026",
+          "value": 1036
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1050.5
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1065
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1054
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1043
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1057.5
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1072
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1086.5
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1101
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1090
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1104.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1093.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1082.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1097
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1111.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1126
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1115
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1129.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1144
+        },
+        {
+          "date": "11/17/2026",
+          "value": 1158.5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Hermes-Momentum-Gen117-30M",
+      "template_id": "intellect_evolved_gen_117",
+      "params": {
+        "rsi_period": 12,
+        "rsi_oversold": 27,
+        "rsi_overbought": 71,
+        "bb_period": 20,
+        "bb_std": 1.95,
+        "ema_fast": 9,
+        "ema_slow": 22,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.34,
+        "bb_weight": 0.22,
+        "ema_weight": 0.44
+      },
+      "entry_logic": "Intellect-evolved Gen 117 (Hermes-Neural-Gen68-AccuracyOpt × Hermes-RSI-Reversion-30M) calibrated for [London Main Session] & Extreme Fear (F&G 12): RSI(12) [27/71], BB(20, 1.95σ), EMA(9/22) on 30 min crypto feed.",
+      "filters": [
+        "30M Expiry Filter",
+        "Session: London Main Session",
+        "RSI(12) [27/71]",
+        "Orthogonal Δ=0.63"
+      ],
+      "enabled": true,
+      "generation": 117,
+      "promoted_at": "2026-11-17T11:43:49.498Z",
+      "market": "crypto",
+      "last_sharpe": 3,
+      "last_pf": 1.87,
+      "last_wr": 0.68,
+      "last_dd": 0.09,
+      "success_score": 77.3,
+      "best_pairs": [
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.75,
+          "total_trades": 8,
+          "avg_score": 8.1,
+          "profit_factor": 2.64,
+          "best_timeframe": "30 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.67,
+          "total_trades": 9,
+          "avg_score": 8.1,
+          "profit_factor": 1.76,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.63,
+          "total_trades": 8,
+          "avg_score": 8.2,
+          "profit_factor": 1.47,
+          "best_timeframe": "30 min",
+          "status": "STABLE"
+        }
+      ],
+      "total_signals_generated": 25,
+      "category": "Intellect-Evolved Momentum Genome",
+      "backtest_history": [
+        {
+          "date": "11/12/2026",
+          "value": 1036
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1050.5
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1065
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1054
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1043
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1057.5
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1072
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1086.5
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1101
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1090
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1104.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1093.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1082.5
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1097
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1111.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1126
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1115
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1129.5
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1144
+        },
+        {
+          "date": "11/17/2026",
+          "value": 1158.5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Hermes-Neural-Gen68-AccuracyOpt",
+      "template_id": "neural_accuracy_optimized",
+      "params": {
+        "rsi_period": 12,
+        "ema_slow": 23,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.1,
+        "bb_weight": 0.17,
+        "ema_weight": 0.73
+      },
+      "entry_logic": "Cross-bred from elite ancestors (Hermes-Neural-Gen62-AccuracyOpt x Hermes-Neural-Gen63-AccuracyOpt) to lock in highest statistical accuracy. Incorporates dynamic volatility bounds.",
+      "filters": [
+        "Auto-Evolved Accuracy Gate",
+        "ATR Volatility Shield",
+        "15-Min Expiry Filter"
+      ],
+      "enabled": true,
+      "generation": 68,
+      "promoted_at": "2026-11-12T09:49:53.541Z",
+      "market": "crypto",
+      "last_sharpe": 8.83,
+      "last_pf": 5.46,
+      "last_wr": 0.88,
+      "last_dd": 0.04,
+      "success_score": 92.6,
+      "best_pairs": [
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.88,
+          "total_trades": 217,
+          "avg_score": 9.6,
+          "profit_factor": 5.46,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.88,
+          "total_trades": 189,
+          "avg_score": 9.6,
+          "profit_factor": 5.53,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.8,
+          "total_trades": 132,
+          "avg_score": 9.4,
+          "profit_factor": 5.36,
+          "best_timeframe": "1 min",
+          "status": "OPTIMAL"
+        }
+      ],
+      "total_signals_generated": 370,
+      "category": "Neural Genetic Accuracy Opt",
+      "backtest_history": [
+        {
+          "date": "11/2/2026",
+          "value": 1020
+        },
+        {
+          "date": "11/2/2026",
+          "value": 1011.9060461173628
+        },
+        {
+          "date": "11/3/2026",
+          "value": 996.0770632690571
+        },
+        {
+          "date": "11/3/2026",
+          "value": 990.1001500679911
+        },
+        {
+          "date": "11/4/2026",
+          "value": 1004.5271275827278
+        },
+        {
+          "date": "11/4/2026",
+          "value": 1033.1732437092646
+        },
+        {
+          "date": "11/5/2026",
+          "value": 1058.8034057330071
+        },
+        {
+          "date": "11/5/2026",
+          "value": 1068.9780450868661
+        },
+        {
+          "date": "11/6/2026",
+          "value": 1067.4899993238278
+        },
+        {
+          "date": "11/6/2026",
+          "value": 1070.8773947623063
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1093.218569418471
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1133.188513959761
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1175.27707917465
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1204.048935629004
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1218.3347443641567
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1232.3062417428237
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1262.4468103935321
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1312.3967332389682
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1369.6063341648817
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1416.8740923637333
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hermes-Neural-Gen69-AccuracyOpt",
+      "template_id": "neural_accuracy_optimized",
+      "params": {
+        "rsi_period": 10,
+        "ema_slow": 26,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.18,
+        "bb_weight": 0.23,
+        "ema_weight": 0.59
+      },
+      "entry_logic": "Cross-bred from elite ancestors (Hermes-Neural-Gen63-AccuracyOpt x Hermes-Neural-Gen64-AccuracyOpt) to lock in highest statistical accuracy. Incorporates dynamic volatility bounds.",
+      "filters": [
+        "Auto-Evolved Accuracy Gate",
+        "ATR Volatility Shield",
+        "15-Min Expiry Filter"
+      ],
+      "enabled": true,
+      "generation": 69,
+      "promoted_at": "2026-11-12T09:50:23.543Z",
+      "market": "crypto",
+      "last_sharpe": 8,
+      "last_pf": 5.49,
+      "last_wr": 0.88,
+      "last_dd": 0.04,
+      "success_score": 92.6,
+      "best_pairs": [
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.88,
+          "total_trades": 217,
+          "avg_score": 9.6,
+          "profit_factor": 5.49,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.88,
+          "total_trades": 189,
+          "avg_score": 9.6,
+          "profit_factor": 5.56,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.8,
+          "total_trades": 132,
+          "avg_score": 9.4,
+          "profit_factor": 5.39,
+          "best_timeframe": "1 min",
+          "status": "OPTIMAL"
+        }
+      ],
+      "total_signals_generated": 188,
+      "category": "Neural Genetic Accuracy Opt",
+      "backtest_history": [
+        {
+          "date": "11/2/2026",
+          "value": 1020
+        },
+        {
+          "date": "11/2/2026",
+          "value": 1011.9060461173628
+        },
+        {
+          "date": "11/3/2026",
+          "value": 996.0770632690571
+        },
+        {
+          "date": "11/3/2026",
+          "value": 990.1001500679911
+        },
+        {
+          "date": "11/4/2026",
+          "value": 1004.5271275827278
+        },
+        {
+          "date": "11/4/2026",
+          "value": 1033.1732437092646
+        },
+        {
+          "date": "11/5/2026",
+          "value": 1058.8034057330071
+        },
+        {
+          "date": "11/5/2026",
+          "value": 1068.9780450868661
+        },
+        {
+          "date": "11/6/2026",
+          "value": 1067.4899993238278
+        },
+        {
+          "date": "11/6/2026",
+          "value": 1070.8773947623063
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1093.218569418471
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1133.188513959761
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1175.27707917465
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1204.048935629004
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1218.3347443641567
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1232.3062417428237
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1262.4468103935321
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1312.3967332389682
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1369.6063341648817
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1416.8740923637333
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Hermes-Neural-Gen70-AccuracyOpt",
+      "template_id": "neural_accuracy_optimized",
+      "params": {
+        "rsi_period": 11,
+        "ema_slow": 27,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.16,
+        "bb_weight": 0.25,
+        "ema_weight": 0.59
+      },
+      "entry_logic": "Cross-bred from elite ancestors (Hermes-Neural-Gen64-AccuracyOpt x Hermes-Neural-Gen65-AccuracyOpt) to lock in highest statistical accuracy. Incorporates dynamic volatility bounds.",
+      "filters": [
+        "Auto-Evolved Accuracy Gate",
+        "ATR Volatility Shield",
+        "15-Min Expiry Filter"
+      ],
+      "enabled": true,
+      "generation": 70,
+      "promoted_at": "2026-11-12T09:50:53.544Z",
+      "market": "crypto",
+      "last_sharpe": 8.83,
+      "last_pf": 5.4,
+      "last_wr": 0.88,
+      "last_dd": 0.04,
+      "success_score": 92.6,
+      "best_pairs": [
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.88,
+          "total_trades": 217,
+          "avg_score": 9.6,
+          "profit_factor": 5.4,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.88,
+          "total_trades": 189,
+          "avg_score": 9.6,
+          "profit_factor": 5.47,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.8,
+          "total_trades": 132,
+          "avg_score": 9.4,
+          "profit_factor": 5.3,
+          "best_timeframe": "1 min",
+          "status": "OPTIMAL"
+        }
+      ],
+      "total_signals_generated": 189,
+      "category": "Neural Genetic Accuracy Opt",
+      "backtest_history": [
+        {
+          "date": "11/2/2026",
+          "value": 1020
+        },
+        {
+          "date": "11/2/2026",
+          "value": 1011.9060461173628
+        },
+        {
+          "date": "11/3/2026",
+          "value": 996.0770632690571
+        },
+        {
+          "date": "11/3/2026",
+          "value": 990.1001500679911
+        },
+        {
+          "date": "11/4/2026",
+          "value": 1004.5271275827278
+        },
+        {
+          "date": "11/4/2026",
+          "value": 1033.1732437092646
+        },
+        {
+          "date": "11/5/2026",
+          "value": 1058.8034057330071
+        },
+        {
+          "date": "11/5/2026",
+          "value": 1068.9780450868661
+        },
+        {
+          "date": "11/6/2026",
+          "value": 1067.4899993238278
+        },
+        {
+          "date": "11/6/2026",
+          "value": 1070.8773947623063
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1093.218569418471
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1133.188513959761
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1175.27707917465
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1204.048935629004
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1218.3347443641567
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1232.3062417428237
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1262.4468103935321
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1312.3967332389682
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1369.6063341648817
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1416.8740923637333
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Hermes-Neural-Gen71-AccuracyOpt",
+      "template_id": "neural_accuracy_optimized",
+      "params": {
+        "rsi_period": 12,
+        "ema_slow": 27,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.11,
+        "bb_weight": 0.21,
+        "ema_weight": 0.68
+      },
+      "entry_logic": "Cross-bred from elite ancestors (Hermes-Neural-Gen65-AccuracyOpt x Hermes-Neural-Gen66-AccuracyOpt) to lock in highest statistical accuracy. Incorporates dynamic volatility bounds.",
+      "filters": [
+        "Auto-Evolved Accuracy Gate",
+        "ATR Volatility Shield",
+        "15-Min Expiry Filter"
+      ],
+      "enabled": true,
+      "generation": 71,
+      "promoted_at": "2026-11-12T09:51:23.545Z",
+      "market": "crypto",
+      "last_sharpe": 9.25,
+      "last_pf": 6.45,
+      "last_wr": 0.88,
+      "last_dd": 0.04,
+      "success_score": 92.6,
+      "best_pairs": [
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.88,
+          "total_trades": 217,
+          "avg_score": 9.6,
+          "profit_factor": 6.45,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.88,
+          "total_trades": 189,
+          "avg_score": 9.6,
+          "profit_factor": 6.52,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.8,
+          "total_trades": 132,
+          "avg_score": 9.4,
+          "profit_factor": 6.35,
+          "best_timeframe": "1 min",
+          "status": "OPTIMAL"
+        }
+      ],
+      "total_signals_generated": 224,
+      "category": "Neural Genetic Accuracy Opt",
+      "backtest_history": [
+        {
+          "date": "11/2/2026",
+          "value": 1020
+        },
+        {
+          "date": "11/2/2026",
+          "value": 1011.9060461173628
+        },
+        {
+          "date": "11/3/2026",
+          "value": 996.0770632690571
+        },
+        {
+          "date": "11/3/2026",
+          "value": 990.1001500679911
+        },
+        {
+          "date": "11/4/2026",
+          "value": 1004.5271275827278
+        },
+        {
+          "date": "11/4/2026",
+          "value": 1033.1732437092646
+        },
+        {
+          "date": "11/5/2026",
+          "value": 1058.8034057330071
+        },
+        {
+          "date": "11/5/2026",
+          "value": 1068.9780450868661
+        },
+        {
+          "date": "11/6/2026",
+          "value": 1067.4899993238278
+        },
+        {
+          "date": "11/6/2026",
+          "value": 1070.8773947623063
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1093.218569418471
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1133.188513959761
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1175.27707917465
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1204.048935629004
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1218.3347443641567
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1232.3062417428237
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1262.4468103935321
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1312.3967332389682
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1369.6063341648817
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1416.8740923637333
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Hermes-XGB-Alpha-3-15M",
+      "template_id": "xgb_momentum",
+      "params": {
+        "ema_fast": 12,
+        "ema_slow": 26,
+        "rsi_period": 14
+      },
+      "weights": {
+        "rsi_weight": 0.1,
+        "bb_weight": 0.2,
+        "ema_weight": 0.7
+      },
+      "entry_logic": "Utilizes the multi-feature XGBoost ML model probability outputs aligned with 15-minute MACD and fast EMA trend confirmations for precise 15-minute outcome predictions.",
+      "filters": [
+        "XGB Probability > 65%",
+        "EMA Crossover Confirmation",
+        "15-Min Expiry Filter"
+      ],
+      "enabled": true,
+      "generation": 3,
+      "promoted_at": "2026-11-15T11:43:04.293Z",
+      "market": "crypto",
+      "last_sharpe": 2.48,
+      "last_pf": 1.82,
+      "last_wr": 0.71,
+      "last_dd": 0.05,
+      "success_score": 77.8,
+      "best_pairs": [
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.77,
+          "total_trades": 189,
+          "avg_score": 9.3,
+          "profit_factor": 1.89,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.71,
+          "total_trades": 217,
+          "avg_score": 9.1,
+          "profit_factor": 1.82,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.63,
+          "total_trades": 132,
+          "avg_score": 8.8,
+          "profit_factor": 1.72,
+          "best_timeframe": "1 min",
+          "status": "STABLE"
+        }
+      ],
+      "total_signals_generated": 645,
+      "category": "Machine Learning Neural",
+      "backtest_history": [
+        {
+          "date": "11/7/2026",
+          "value": 1000
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1094.8496991962434
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1078.467200483592
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1046.3481929400941
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1123.2350701080645
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1231.2799986064842
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1234.7271091145053
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1192.2182544016998
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1247.805624919974
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1363.2270655930972
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1389.017270409427
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1342.2928794578527
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1374.9407651936995
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1491.3323921831761
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1540.1993383121633
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1495.7695292523695
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1505.6652982796027
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1616.5435012413302
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1687.38255570427
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1651.5746615887922
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hermes-RSI-Reversion-30M",
+      "template_id": "rsi_reversion_30m",
+      "params": {
+        "rsi_period": 14,
+        "rsi_oversold": 28,
+        "rsi_overbought": 72
+      },
+      "weights": {
+        "rsi_weight": 0.5,
+        "bb_weight": 0.25,
+        "ema_weight": 0.25
+      },
+      "entry_logic": "Enter BUY when RSI < 28 and price touches lower Bollinger Band on a 30-minute interval. Enter SELL when RSI > 72 and price touches upper Bollinger Band. Calibrated for 30-minute expiration reversals.",
+      "filters": [
+        "RSI Oversold/Overbought Extra Guard",
+        "Bollinger Band Boundary Touch",
+        "30-Min Expiry Filter"
+      ],
+      "enabled": true,
+      "generation": 1,
+      "promoted_at": "2026-11-08T11:43:04.293Z",
+      "market": "crypto",
+      "last_sharpe": 2.22,
+      "last_pf": 1.62,
+      "last_wr": 0.68,
+      "last_dd": 0.06,
+      "success_score": 71.9,
+      "best_pairs": [
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.74,
+          "total_trades": 189,
+          "avg_score": 9.2,
+          "profit_factor": 1.69,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.68,
+          "total_trades": 217,
+          "avg_score": 9,
+          "profit_factor": 1.62,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.6,
+          "total_trades": 132,
+          "avg_score": 8.7,
+          "profit_factor": 1.52,
+          "best_timeframe": "1 min",
+          "status": "STABLE"
+        }
+      ],
+      "total_signals_generated": 215,
+      "category": "Mean Reversion",
+      "backtest_history": [
+        {
+          "date": "11/7/2026",
+          "value": 1000
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1060.6213680088529
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1079.6412113192903
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1068.5117844846802
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1077.1342386907456
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1130.2204575630376
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1195.7783752347204
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1225.9109617830898
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1217.8985626571957
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1217.667231947673
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1261.2199478699847
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1328.7225730147527
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1369.7980221792247
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1367.7713778304806
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1360.9351538246474
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1393.7154463629913
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1460.0160225086963
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1510.9927515049935
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1517.343767207923
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1506.6776835384514
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Hermes-XGB-Alpha-3-30M",
+      "template_id": "xgb_momentum_30m",
+      "params": {
+        "ema_fast": 12,
+        "ema_slow": 26,
+        "rsi_period": 14
+      },
+      "weights": {
+        "rsi_weight": 0.1,
+        "bb_weight": 0.2,
+        "ema_weight": 0.7
+      },
+      "entry_logic": "Utilizes the multi-feature XGBoost ML model probability outputs aligned with 30-minute MACD and fast EMA trend confirmations for precise 30-minute outcome predictions.",
+      "filters": [
+        "XGB Probability > 65%",
+        "EMA Crossover Confirmation",
+        "30-Min Expiry Filter"
+      ],
+      "enabled": true,
+      "generation": 3,
+      "promoted_at": "2026-11-16T11:43:04.293Z",
+      "market": "crypto",
+      "last_sharpe": 2.65,
+      "last_pf": 1.95,
+      "last_wr": 0.75,
+      "last_dd": 0.04,
+      "success_score": 82.8,
+      "best_pairs": [
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.81,
+          "total_trades": 189,
+          "avg_score": 9.4,
+          "profit_factor": 2.02,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.75,
+          "total_trades": 217,
+          "avg_score": 9.2,
+          "profit_factor": 1.95,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.67,
+          "total_trades": 132,
+          "avg_score": 8.9,
+          "profit_factor": 1.85,
+          "best_timeframe": "1 min",
+          "status": "STABLE"
+        }
+      ],
+      "total_signals_generated": 410,
+      "category": "Machine Learning Neural",
+      "backtest_history": [
+        {
+          "date": "11/7/2026",
+          "value": 1000
+        },
+        {
+          "date": "11/7/2026",
+          "value": 1111.9701522129053
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1079.9138099600693
+        },
+        {
+          "date": "11/8/2026",
+          "value": 1056.2684773814913
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1176.1584443395345
+        },
+        {
+          "date": "11/9/2026",
+          "value": 1279.2550772636366
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1239.7971253143912
+        },
+        {
+          "date": "11/10/2026",
+          "value": 1225.4575589594078
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1352.2056877571076
+        },
+        {
+          "date": "11/11/2026",
+          "value": 1445.5960443584495
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1399.8467678334455
+        },
+        {
+          "date": "11/12/2026",
+          "value": 1395.5808851457314
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1528.0320450173929
+        },
+        {
+          "date": "11/13/2026",
+          "value": 1611.0156663854068
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1560.1711021814995
+        },
+        {
+          "date": "11/14/2026",
+          "value": 1566.6095146595364
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1703.5308415992772
+        },
+        {
+          "date": "11/15/2026",
+          "value": 1775.5491143155505
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1720.8747489285597
+        },
+        {
+          "date": "11/16/2026",
+          "value": 1738.502166788447
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Hermes-Neural-Gen6-AccuracyOpt",
+      "template_id": "neural_accuracy_optimized",
+      "params": {
+        "rsi_period": 14,
+        "ema_slow": 24,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.15,
+        "bb_weight": 0.19,
+        "ema_weight": 0.66
+      },
+      "entry_logic": "Cross-bred from elite ancestors (Hermes-Neural-Gen5-AccuracyOpt x Hermes-Neural-Gen4-AccuracyOpt) to lock in highest statistical accuracy. Incorporates dynamic volatility bounds.",
+      "filters": [
+        "Auto-Evolved Accuracy Gate",
+        "ATR Volatility Shield",
+        "15-Min Expiry Filter"
+      ],
+      "enabled": false,
+      "generation": 6,
+      "promoted_at": "2026-08-26T12:15:15.062Z",
+      "market": "crypto",
+      "last_sharpe": 3.24,
+      "last_pf": 2.45,
+      "last_wr": 0.88,
+      "last_dd": 0.04,
+      "success_score": 92.6,
+      "best_pairs": [
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.88,
+          "total_trades": 217,
+          "avg_score": 9.6,
+          "profit_factor": 2.45,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.88,
+          "total_trades": 189,
+          "avg_score": 9.6,
+          "profit_factor": 2.52,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.8,
+          "total_trades": 132,
+          "avg_score": 9.4,
+          "profit_factor": 2.35,
+          "best_timeframe": "1 min",
+          "status": "OPTIMAL"
+        }
+      ],
+      "total_signals_generated": 156,
+      "category": "Neural Genetic Accuracy Opt",
+      "backtest_history": [
+        {
+          "date": "8/16/2026",
+          "value": 1020
+        },
+        {
+          "date": "8/17/2026",
+          "value": 1011.9060461173628
+        },
+        {
+          "date": "8/17/2026",
+          "value": 996.0770632690571
+        },
+        {
+          "date": "8/18/2026",
+          "value": 990.1001500679911
+        },
+        {
+          "date": "8/18/2026",
+          "value": 1004.5271275827278
+        },
+        {
+          "date": "8/19/2026",
+          "value": 1033.1732437092646
+        },
+        {
+          "date": "8/19/2026",
+          "value": 1058.8034057330071
+        },
+        {
+          "date": "8/20/2026",
+          "value": 1068.9780450868661
+        },
+        {
+          "date": "8/20/2026",
+          "value": 1067.4899993238278
+        },
+        {
+          "date": "8/21/2026",
+          "value": 1070.8773947623063
+        },
+        {
+          "date": "8/21/2026",
+          "value": 1093.218569418471
+        },
+        {
+          "date": "8/22/2026",
+          "value": 1133.188513959761
+        },
+        {
+          "date": "8/22/2026",
+          "value": 1175.27707917465
+        },
+        {
+          "date": "8/23/2026",
+          "value": 1204.048935629004
+        },
+        {
+          "date": "8/23/2026",
+          "value": 1218.3347443641567
+        },
+        {
+          "date": "8/24/2026",
+          "value": 1232.3062417428237
+        },
+        {
+          "date": "8/24/2026",
+          "value": 1262.4468103935321
+        },
+        {
+          "date": "8/25/2026",
+          "value": 1312.3967332389682
+        },
+        {
+          "date": "8/25/2026",
+          "value": 1369.6063341648817
+        },
+        {
+          "date": "8/26/2026",
+          "value": 1416.8740923637333
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Hermes-Neural-Gen7-AccuracyOpt",
+      "template_id": "neural_accuracy_optimized",
+      "params": {
+        "rsi_period": 14,
+        "ema_slow": 23,
+        "threshold_score": 6
+      },
+      "weights": {
+        "rsi_weight": 0.1,
+        "bb_weight": 0.19,
+        "ema_weight": 0.71
+      },
+      "entry_logic": "Cross-bred from elite ancestors (Hermes-Neural-Gen6-AccuracyOpt x Hermes-Neural-Gen5-AccuracyOpt) to lock in highest statistical accuracy. Incorporates dynamic volatility bounds.",
+      "filters": [
+        "Auto-Evolved Accuracy Gate",
+        "ATR Volatility Shield",
+        "15-Min Expiry Filter"
+      ],
+      "enabled": false,
+      "generation": 7,
+      "promoted_at": "2026-08-26T12:15:45.062Z",
+      "market": "crypto",
+      "last_sharpe": 3.48,
+      "last_pf": 2.66,
+      "last_wr": 0.88,
+      "last_dd": 0.04,
+      "success_score": 92.6,
+      "best_pairs": [
+        {
+          "pair": "BTC/USDT",
+          "win_rate": 0.88,
+          "total_trades": 217,
+          "avg_score": 9.6,
+          "profit_factor": 2.66,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "ETH/USDT",
+          "win_rate": 0.88,
+          "total_trades": 189,
+          "avg_score": 9.6,
+          "profit_factor": 2.73,
+          "best_timeframe": "15 min",
+          "status": "OPTIMAL"
+        },
+        {
+          "pair": "SOL/USDT",
+          "win_rate": 0.8,
+          "total_trades": 132,
+          "avg_score": 9.4,
+          "profit_factor": 2.56,
+          "best_timeframe": "1 min",
+          "status": "OPTIMAL"
+        }
+      ],
+      "total_signals_generated": 284,
+      "category": "Neural Genetic Accuracy Opt",
+      "backtest_history": [
+        {
+          "date": "8/16/2026",
+          "value": 1020
+        },
+        {
+          "date": "8/17/2026",
+          "value": 1011.9060461173628
+        },
+        {
+          "date": "8/17/2026",
+          "value": 996.0770632690571
+        },
+        {
+          "date": "8/18/2026",
+          "value": 990.1001500679911
+        },
+        {
+          "date": "8/18/2026",
+          "value": 1004.5271275827278
+        },
+        {
+          "date": "8/19/2026",
+          "value": 1033.1732437092646
+        },
+        {
+          "date": "8/19/2026",
+          "value": 1058.8034057330071
+        },
+        {
+          "date": "8/20/2026",
+          "value": 1068.9780450868661
+        },
+        {
+          "date": "8/20/2026",
+          "value": 1067.4899993238278
+        },
+        {
+          "date": "8/21/2026",
+          "value": 1070.8773947623063
+        },
+        {
+          "date": "8/21/2026",
+          "value": 1093.218569418471
+        },
+        {
+          "date": "8/22/2026",
+          "value": 1133.188513959761
+        },
+        {
+          "date": "8/22/2026",
+          "value": 1175.27707917465
+        },
+        {
+          "date": "8/23/2026",
+          "value": 1204.048935629004
+        },
+        {
+          "date": "8/23/2026",
+          "value": 1218.3347443641567
+        },
+        {
+          "date": "8/24/2026",
+          "value": 1232.3062417428237
+        },
+        {
+          "date": "8/24/2026",
+          "value": 1262.4468103935321
+        },
+        {
+          "date": "8/25/2026",
+          "value": 1312.3967332389682
+        },
+        {
+          "date": "8/25/2026",
+          "value": 1369.6063341648817
+        },
+        {
+          "date": "8/26/2026",
+          "value": 1416.8740923637333
+        }
+      ]
+    }
+  ],
+  "performance": [
+    {
+      "id": 1,
+      "timestamp": "2026-11-17T11:48:59.114Z",
+      "metric": "win_rate",
+      "value": 100,
+      "period": "all"
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-11-17T11:48:59.114Z",
+      "metric": "profit_factor",
+      "value": 12.780000000000001,
+      "period": "all"
+    },
+    {
+      "id": 3,
+      "timestamp": "2026-11-17T11:48:59.114Z",
+      "metric": "total_profit",
+      "value": 12.78,
+      "period": "all"
+    },
+    {
+      "id": 4,
+      "timestamp": "2026-11-17T11:48:59.114Z",
+      "metric": "max_drawdown",
+      "value": 0,
+      "period": "all"
+    }
+  ],
+  "adaptive_thresholds": [
+    {
+      "id": 1,
+      "timestamp": "2026-08-20T12:13:44.997Z",
+      "param_name": "min_win_probability",
+      "old_value": 0.6,
+      "new_value": 0.65,
+      "reason": "Recent high-noise cycle on BTC/USD caused drawdown. Raised probability floor to filter entries."
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-08-23T12:13:44.997Z",
+      "param_name": "min_score",
+      "old_value": 5,
+      "new_value": 6,
+      "reason": "Optimizing overall system precision. Requiring 6 or more indicators to trigger trade setups."
+    }
+  ],
+  "model_versions": [
+    {
+      "id": 1,
+      "timestamp": "2026-08-11T12:13:44.997Z",
+      "version": 1,
+      "accuracy": 0.612,
+      "precision_val": 0.625,
+      "recall": 0.584,
+      "f1": 0.604,
+      "auc": 0.632,
+      "sample_count": 240,
+      "features_used": [
+        "rsi_val",
+        "bb_position",
+        "atr_val",
+        "hour_of_day"
+      ]
+    },
+    {
+      "id": 2,
+      "timestamp": "2026-08-21T12:13:44.997Z",
+      "version": 2,
+      "accuracy": 0.654,
+      "precision_val": 0.671,
+      "recall": 0.638,
+      "f1": 0.654,
+      "auc": 0.689,
+      "sample_count": 512,
+      "features_used": [
+        "rsi_val",
+        "bb_position",
+        "atr_val",
+        "hour_of_day",
+        "contra_total",
+        "key_buyers_low",
+        "key_sellers_high"
+      ]
+    }
+  ],
+  "trade_insights": [],
+  "logs": [
+    "[11:49:18 AM] [Solo Pine Evolution] ✅ Promoted \"Hermes-RSI-BB-Squeeze-30M\" to Solo Gen 2.0 (Isolated Individual Track). Best Omni-TF: 30 min (83% WR, PF 3.15, Score 89.4/100 across 1020 live candles).",
+    "[11:49:18 AM] [Solo Pine Evolution] 🧬 Evolving \"Hermes-RSI-BB-Squeeze-15M\" individually (Solo Gen 1.0 -> Solo Gen 2.0) across Omni-Timeframes (1m, 15m, 30m, 60m) with zero pool crossover...",
+    "[11:49:08 AM] [Hermes Engine] 🔔 CRYPTO PRO SIGNAL! Asset: SOL/USDT SELL @ $73.46. Target Margin: +2.4 pts, Payout: 88%. ML: 96%",
+    "[11:49:08 AM] [Gemini Deep Quant Engine] ✅ Gemini Verification Approved: \"The SOL/USDT setup exhibits a perfect confluence of extreme overextension beyond the upper Bollinger Band and a nearing-oversold RSI, signaling a high-probability mean reversion that eliminates near-miss execution risk.\"",
+    "[11:49:04 AM] [Gemini Deep Quant Engine] Requesting Gemini server-side deep verification for SOL/USDT SELL 15 min...",
+    "[11:49:04 AM] [Pure Accuracy Engine] 🎯 Qualified setup found for SOL/USDT (SELL - 15 min) @ spot $73.46. Score: 10/10, Calibrated ML Win Prob: 96%.",
+    "[11:49:04 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:48:59 AM] [Hermes Engine] Startup Recovery: Automatically resolved 3 stale pending signals from the database.",
+    "[11:48:59 AM] [Engine Upgrade] Programmatically patched active strategy brain models and signal logs to support 15, 30, and 60-minute trade configurations.",
+    "[11:48:54 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:48:54 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:48:54 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:48:54 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:48:54 AM] [Scanner Engine] Initiating LIVE multi-indicator scan for [60 min] via [Hermes-Momentum-Gen119-30M] under [London Main Session] -> Engine: [Hermes European Trend Continuation & Momentum Engine]",
+    "[11:48:39 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:48:39 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:48:39 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:48:39 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:48:39 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:48:27 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:48:27 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:48:27 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:48:27 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:48:27 AM] [Scanner Engine] Initiating LIVE multi-indicator scan for [15 min] via [Hermes-Momentum-Gen123-30M] under [London Main Session] -> Engine: [Hermes European Trend Continuation & Momentum Engine]",
+    "[11:48:24 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:48:24 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:48:24 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:48:24 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:48:24 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:48:19 AM] [Auto-Evolve Intellect] 🧬 Evolved \"Hermes-Momentum-Gen123-30M\" (Gen 123) from Hermes-Neural-Gen68-AccuracyOpt × Hermes-Neural-Gen69-AccuracyOpt (Δ=0.172) on 255 live candles -> WR: 61%, Score: 67.9/100. Archived lower-scoring model Hermes-Momentum-Gen122-30M (Score 67.9) to maintain elite active roster.",
+    "[11:48:09 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:48:09 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:48:09 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:48:09 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:48:09 AM] [Scanner Engine] Initiating LIVE multi-indicator scan for [60 min] via [Hermes-XGB-Alpha-3-30M] under [London Main Session] -> Engine: [Hermes European Trend Continuation & Momentum Engine]",
+    "[11:47:54 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:47:54 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:47:54 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:47:54 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:47:54 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:47:39 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:47:39 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:47:39 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:47:39 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:47:39 AM] [Scanner Engine] Initiating LIVE multi-indicator scan for [15 min] via [Hermes-XGB-Alpha-3-15M] under [London Main Session] -> Engine: [Hermes European Trend Continuation & Momentum Engine]",
+    "[11:47:34 AM] [Auto-Evolve Intellect] 🧬 Evolved \"Hermes-Momentum-Gen122-30M\" (Gen 122) from Hermes-Neural-Gen68-AccuracyOpt × Hermes-Neural-Gen69-AccuracyOpt (Δ=0.172) on 255 live candles -> WR: 61%, Score: 67.9/100. Archived lower-scoring model Hermes-Momentum-Gen121-30M (Score 67.9) to maintain elite active roster.",
+    "[11:47:27 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:47:27 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:47:27 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:47:27 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:47:27 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:47:24 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:47:24 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:47:24 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:47:24 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:47:24 AM] [Scanner Engine] Initiating LIVE multi-indicator scan for [60 min] via [Hermes-Neural-Gen70-AccuracyOpt] under [London Main Session] -> Engine: [Hermes European Trend Continuation & Momentum Engine]",
+    "[11:47:09 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:47:09 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:47:09 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:47:09 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:47:09 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:46:54 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:46:54 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:46:54 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:46:54 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:46:54 AM] [Scanner Engine] Initiating LIVE multi-indicator scan for [30 min] via [Hermes-Neural-Gen68-AccuracyOpt] under [London Main Session] -> Engine: [Hermes European Trend Continuation & Momentum Engine]",
+    "[11:46:49 AM] [Auto-Evolve Intellect] 🧬 Evolved \"Hermes-Momentum-Gen121-30M\" (Gen 121) from Hermes-Neural-Gen68-AccuracyOpt × Hermes-Neural-Gen69-AccuracyOpt (Δ=0.172) on 255 live candles -> WR: 61%, Score: 67.9/100. Archived lower-scoring model Hermes-RSI-Reversion-15M (Score 67.7) to maintain elite active roster.",
+    "[11:46:39 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:46:39 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:46:39 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:46:39 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:46:39 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:46:27 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:46:27 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:46:27 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:46:27 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:46:27 AM] [Scanner Engine] Initiating LIVE multi-indicator scan for [15 min] via [Hermes-Momentum-Gen117-30M] under [London Main Session] -> Engine: [Hermes European Trend Continuation & Momentum Engine]",
+    "[11:46:14 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:46:14 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:46:14 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:46:14 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:46:14 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:46:04 AM] [Auto-Evolve Intellect] 🧬 Evolved \"Hermes-Momentum-Gen120-30M\" (Gen 120) from Hermes-Neural-Gen68-AccuracyOpt × Hermes-Neural-Gen69-AccuracyOpt (Δ=0.172) on 255 live candles -> WR: 61%, Score: 67.9/100. Archived lower-scoring model Hermes-Momentum-Gen100-30M (Score 65.7) to maintain elite active roster.",
+    "[11:45:59 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:45:59 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:45:59 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:45:59 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:45:59 AM] [Scanner Engine] Initiating LIVE multi-indicator scan for [30 min] via [Hermes-Momentum-Gen118-30M] under [London Main Session] -> Engine: [Hermes European Trend Continuation & Momentum Engine]",
+    "[11:45:44 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:45:44 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:45:44 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:45:44 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:45:44 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:45:28 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:45:28 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:45:28 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:45:28 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:45:28 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:45:24 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:45:24 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:45:24 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:45:24 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:45:24 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:45:19 AM] [Auto-Evolve Intellect] 🧬 Evolved \"Hermes-Momentum-Gen119-30M\" (Gen 119) from Hermes-Neural-Gen68-AccuracyOpt × Hermes-Neural-Gen69-AccuracyOpt (Δ=0.172) on 255 live candles -> WR: 61%, Score: 67.9/100. Archived lower-scoring model Hermes-BB-Breakout-30M (Score 63.1) to maintain elite active roster.",
+    "[11:45:09 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:45:09 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:45:09 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:45:09 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:45:09 AM] [Scanner Engine] Initiating LIVE multi-indicator scan for [1 min] via [Hermes-BB-Breakout-30M] under [London Main Session] -> Engine: [Hermes European Trend Continuation & Momentum Engine]",
+    "[11:44:54 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss.",
+    "[11:44:54 AM] [Scanner Guard] Skipping SOL/USDT — Active trade #9 (SELL 15 min) is still pending.",
+    "[11:44:54 AM] [Scanner Guard] Skipping ETH/USDT — Active trade #8 (SELL 15 min) is still pending.",
+    "[11:44:54 AM] [Scanner Guard] Skipping BTC/USDT — Active trade #7 (SELL 15 min) is still pending.",
+    "[11:44:54 AM] [PineScript Engine] 🌲 Executing Isolated Pine Strategy \"Hermes-RSI-BB-Squeeze-15M\" (Solo Gen 1.0 • Optimal TF: 15 min) with custom genome RSI(10) [30/70], BB(18, 2.2σ), EMA(8/21)...",
+    "[11:44:39 AM] [Scanner Filter - Ranging Mood Guard] Scan completed across 3 assets. Market is currently in a ranging mood across scanned assets. ZERO signals generated to protect capital against chop loss."
+  ],
+  "current_thresholds": {
+    "min_score": 6,
+    "min_win_probability": 0.65,
+    "bb_buffer": 0.2,
+    "rsi_zone": 1,
+    "execution_latency": 350,
+    "broker_slippage_pips": 0.4
+  },
+  "engine_state": {
+    "scanning": true,
+    "activePairsCount": 5,
+    "lastScanTime": "11:49:08 AM",
+    "session_info": {
+      "session_type": "London Main Session",
+      "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+      "status": "ACTIVE",
+      "utc_hour": 11,
+      "volatility_mode": "Sustained European Trend Volatility",
+      "focus": "Institutional Trend Continuation, XGBoost Neural Momentum & Pullback Re-entries",
+      "target_assets": [
+        "BTC/USDT",
+        "ETH/USDT",
+        "SOL/USDT"
+      ],
+      "recommended_timeframe": "30 min",
+      "min_win_probability": 0.88,
+      "position_scale": "1.2x Enhanced",
+      "last_updated": "11:49:18 AM"
+    }
+  },
+  "market_sentiment": {
+    "value": 12,
+    "classification": "Extreme Fear",
+    "timestamp": "2026-11-17T11:49:02.782Z",
+    "source": "Alternative.me F&G API",
+    "last_updated": "11:49:02 AM"
+  },
+  "ai_sentiment_briefing": {
+    "commentary": "The market is currently trading in a Balanced Regime. Bollinger bands suggest ranging volatility, and RSI reversals are expected to hold higher reliability. Consider standard position sizing of 1.5% with standard 1.5 risk-to-reward targets. No severe risk constraints are active.",
+    "suggested_action": "Maintain standard settings. Execute both reversion and breakout strategies with standard filters.",
+    "risk_level": "Moderate",
+    "last_updated": "12:13:44 PM"
+  },
+  "auto_evolve_active": true,
+  "machine_brain_intel": "🧬 **[Auto-Evolve Multi-Intellect Synthesis — Gen 123]**\n\n- **Promoted Genome**: **Hermes-Momentum-Gen123-30M** (Success Score: **67.9/100**, Empirical WR: **61%**, PF: **1.4**, Sharpe: **2.73**)\n- **Orthogonal Parents**: **Hermes-Neural-Gen68-AccuracyOpt** (G68) × **Hermes-Neural-Gen69-AccuracyOpt** (G69) [Genetic Distance Δ = 0.172]\n- **Session & Sentiment Intellects**: Calibrated for **London Main Session** (30 min) under **Extreme Fear (F&G 12)** → Gene Weights RSI 20% / BB 21% / EMA 59%\n- **Threshold Co-Optimization**: Thresholds locked at Score >= 6/10, ML Floor >= 65%, BB Buffer 0.2σ",
+  "ai_provider": "gemini",
+  "session_info": {
+    "session_type": "London Main Session",
+    "engine_name": "Hermes European Trend Continuation & Momentum Engine",
+    "status": "ACTIVE",
+    "utc_hour": 11,
+    "volatility_mode": "Sustained European Trend Volatility",
+    "focus": "Institutional Trend Continuation, XGBoost Neural Momentum & Pullback Re-entries",
+    "target_assets": [
+      "BTC/USDT",
+      "ETH/USDT",
+      "SOL/USDT"
+    ],
+    "recommended_timeframe": "30 min",
+    "min_win_probability": 0.88,
+    "position_scale": "1.2x Enhanced",
+    "last_updated": "11:49:18 AM"
+  },
+  "session_override": null,
+  "killed_session_assets": {
+    "Asian (Tokyo)": [],
+    "London Open": [],
+    "London Main Session": [],
+    "New York Open": [],
+    "London–New York Overlap": [],
+    "New York Close": [],
+    "Low Liquidity / Holiday Session": []
+  },
+  "bigpickle_config": {
+    "endpoint": "https://api.bigpickle.ai/v1/chat/completions",
+    "api_key": "sk-pickle-default-key-12345",
+    "model": "big-pickle-quantum-v2",
+    "use_socks5": false,
+    "socks5_host": "127.0.0.1",
+    "socks5_port": 1080
+  },
+  "active_ai_model": "gemini-3.1-flash-lite",
+  "last_ai_sync_at": "2026-11-17T11:49:08.763Z",
+  "latest_analyst_report": "## Hermes Quant Analyst — 5-Trade Batch Audit\n\n### 1. Per-Trade Strategic Reasoning\n- **Signal #44 (ETH/USDT SELL — Win | Score: 10/10 | ML: 99%)**: Executed at `hour_of_day: 15` (peak NY liquidity). `bb_position: 1.07` pierced the upper Bollinger Band with `key_sellers_high: 1`, confirming overhead supply within the `0.2` SD entry buffer. RSI at `60.7` (`rsi_zone: 1`) preserved downward momentum room without oversold exhaustion. Zero contradictions (`contra_total: 0`) validated maximum-conviction sizing above the `6/10` score and `65%` ML floors.\n- **Signal #43 (SOL/USDT SELL — Win | Score: 7/10 | ML: 94%)**: Executed at `hour_of_day: 15` with `bb_position: 0.36` (mid-to-lower band) and `key_sellers_high: 0`. Despite lacking an upper-band extreme, `contra_bb: 0` and `rsi_zone: 1` (RSI `63.6`) confirmed a clean mid-range trend continuation above both the `6/10` score threshold and `65%` ML floor.\n- **Signal #42 (BTC/USDT SELL — Win | Score: 6/10 | ML: 89%)**: Executed at `hour_of_day: 12` (London/NY overlap). Score sat exactly at the active `6/10` minimum threshold, while `ML: 89%` comfortably cleared the `65%` floor. Neutral RSI (`51.7`, `rsi_zone: 1`), `bb_position: 0.70`, and `contra_total: 0` allowed a clean continuation sell.\n- **Signal #41 (BTC/USDT BUY — Win | Score: 8/10 | ML: 90%)**: Executed at `hour_of_day: 12`. `bb_position: 0.15` sat squarely inside the `0.2` SD lower-band entry buffer, reinforced by `key_buyers_low: 1`. RSI at `36.4` (`rsi_zone: 1`) offered mean-reversion upside without violating momentum bounds, clearing both score (`8 >= 6`) and ML (`90% >= 65%`) gates.\n- **Signal #1 (ETH/USDT BUY — Win | Score: 5/10 | ML: 75%)**: Executed at `hour_of_day: 20` (late NY session). Notably, Score `5/10` sits **below** the active `6/10` threshold (reflecting legacy gating on Signal #1), yet the trade succeeded because `ML: 75%` exceeded the `65%` floor, `bb_position: 0.12` respected the `0.2` SD lower-band buffer, `key_buyers_low: 1` confirmed demand, and `contra_total: 0` held.\n\n### 2. Cross-Trade Pattern Matching\n- **Batch Performance**: `5/5` Wins (`100%` win rate; `0` losses), preventing direct win-vs-loss divergence analysis in this sample while isolating high-probability winning invariants.\n- **Zero-Contradiction Invariant**: All `5` trades recorded `contra_total: 0` (`contra_bb`, `contra_rsi`, `contra_candle`, and `contra_macd` all `0`). Every win exhibited full cross-indicator alignment.\n- **RSI Zone & Buffer Calibration**: All `5` setups triggered within `rsi_zone: 1` (RSI range `36.4` to `63.6`), proving the active `RSI Momentum Floor Zone Factor: 1` captures both mean-reversion bounces (`#41`, `#1`) and mid-band continuations (`#43`, `#42`) without choking signal flow.\n- **Bollinger Band Regime Split**: `3/5` trades (`#44` at `1.07`, `#41` at `0.15`, `#1` at `0.12`) fired at outer-band extremes paired with active `key_sellers_high` or `key_buyers_low` confirmation, whereas `2/5` (`#43` at `0.36`, `#42` at `0.70`) won inside mid-band ranges via pure momentum alignment.\n- **Session & Threshold Fit**: All trades occurred during `hours 12–20` (London/NY overlap through NY close), with zero off-hours/Asian session exposure. Active ML (`65%`) and Score (`6/10`) floors are well-calibrated, though the batch ML minimum (`75%`) and Signal `#1` (`Score 5`) show ML probability is currently a stronger discriminator than raw indicator count alone.\n\n### 3. Strategic Recommendations\n- **Raise ML Win Probability Floor (`65%` -> `75%`)**: Every trade in this winning cohort scored `>= 75%` ML probability (mean `89.4%`). Nudging the floor to `75%` filters marginal `65%–74%` noise while preserving all `5` winning setups.\n- **Maintain Score Floor at `6/10` with Conditional Override**: Keep `Minimum Indicators Score Threshold: 6/10` for standard entries; optionally test a `Score = 5` exception only when `ML >= 75%`, `contra_total == 0`, and a structural level (`key_buyers_low` or `key_sellers_high`) aligns inside the `0.2` BB buffer.\n- **Codify Zero-Contradiction Gating**: Enforce `contra_total == 0` as a hard pre-trade filter during NY volatility (`hours 12–20`) until contradictory setups demonstrate positive expectancy in out-of-sample testing.\n- **Keep `BB Buffer: 0.2` & `RSI Zone Factor: 1`**: Avoid tightening RSI bounds (`> 1`) or shrinking the `0.2` BB buffer, as current values cleanly accommodated both `0.12–0.15` support bounces and `0.36–0.70` trend continuations.\n- **Tag Session Sub-Windows**: Separate `hour 12` (London/NY overlap), `hour 15` (NY core), and `hour 20` (late NY) in telemetry to monitor liquidity decay as sample size scales.\n\n### 4. Learning Progression Statement\nFrom Signal `#1` (`Score: 5`, `ML: 75%`) to Signals `#41–#44` (`Score: 6–10`, `ML: 89%–99%`), the system demonstrates measurable progression toward higher-conviction signal selection, tighter score-floor enforcement, and strong probability calibration across ETH, BTC, and SOL during NY liquidity windows. Because this batch contains zero losses, maintaining strict `contra_total: 0` discipline and collecting larger out-of-sample batches—including off-hours sessions—remains essential to stress-test drawdown resilience.",
+  "latest_batch_id": 2,
+  "latest_audit": {
+    "report": "## 1. System & Threshold Calibration Audit\n\n- **Session & Volatility Alignment (Asian / Tokyo • Low-Medium Range-Bound):** The active **Hermes Tokyo Range Reversion & Mean Reversion Engine** aligns well with the current low-to-medium range-bound volatility profile, evidenced by the **95% (19/20)** recent realized win rate. However, **Market Sentiment at 20/100 (Extreme Fear)** introduces asymmetric downside tail-risk (abrupt liquidation wicks and sudden range breakdowns) that passive mean-reversion thresholds must guard against.\n- **`min_score` (6/10) & `min_win_probability` (65%):** Both floors are calibrated too loosely for the current roster. Top-performing Neural, XGB, and RSI strategies average signal scores of **8.6–9.6**, while recent executed signals ranged from **73% to 99% ML probability**. Keeping `min_score` at `6` and `min_win_probability` at `65%` allows marginal **Momentum-Gen76/Gen95** setups (avg score `7.9`) and noisy 1-minute signals (`73%–75%` ML) to pass execution filters. **Directive:** Raise `min_score` to `8.0/10` and `min_win_probability` to `78%`.\n- **`bb_buffer` (0.2σ):** Under Extreme Fear (`20/100`), wicks frequently pierce Bollinger Bands before snapping back or accelerating into stop cascades. A `0.2σ` buffer is adequate for high-liquidity 15m/30m BTC/ETH reversion, but remains vulnerable on volatile SOL/USDT entries. Tightening entry selectivity or requiring confirmation beyond `0.25σ` on SOL reduces premature knife-catching.\n- **`latency` (350ms) & `slippage` (0.4 pts):** Acceptable for 15m/30m/60m execution on BTC/USDT (`$65k–$78k`) and ETH/USDT (`$2k–$3.4k`), where `0.4 pts` is negligible (`<0.02%`). However, on **SOL/USDT (`~$142–$152`)**, `0.4 pts` equals **~0.26%–0.28% slippage per side**, which severely degrades expectancy on `1 min` scalps—especially under `350ms` execution latency.\n\n---\n\n## 2. Strategy Roster & Solo Pine Omni-TF Check\n\n### Top-Performing Strategies\n- **Hermes-Neural-Gen71-AccuracyOpt [Gen 71]:** Roster leader with **92.6 Success Score**, **88.0% Win Rate**, **6.45 Profit Factor**, **9.25 Sharpe**, and **4.0% Max DD** (`BTC PF 6.45`, `ETH PF 6.52`, `SOL PF 6.35`).\n- **Hermes-Neural-Gen73 / Gen69 / Gen72 / Gen68 / Gen70:** All maintain **92.6 Score**, **88.0% WR**, **5.40–6.06 PF**, **8.0–8.83 Sharpe**, and **4.0% Max DD**.\n- **Hermes-XGB-Alpha-3-30M [Gen 3] & 15M:** Strong secondary ML tier (**82.8 / 77.8 Score**, **75% / 71% WR**, **1.95 / 1.82 PF**, **4% / 5% Max DD**).\n- **Hermes-RSI-Reversion-30M & 15M [Gen 1]:** Solid regime-aligned reversion baseline (**71.9 / 67.7 Score**, **68% / 64% WR**, **1.62 / 1.54 PF**).\n\n### Lagging & Regime-Mismatched Strategies\n- **Hermes-Momentum-Gen95-15M & Hermes-Momentum-Gen76-15M:** Both severely lag the roster (**61.6 / 63.4 Score**, **57% / 58% WR**, **1.15 / 1.23 PF**, **11.0% Max DD**). Critically, both produce **negative expectancy (PF 0.88, 50% WR)** on **ETH/USDT** and **SOL/USDT**, and are regime-mismatched for Tokyo range-bound conditions.\n\n### Genetic Diversity & Roster Redundancy Audit\n- **Critical Clones Detected:** `Hermes-Momentum-Gen95-15M` and `Gen76-15M` have **100% identical parameters** (`rsi_period:12, rsi_oversold:28, rsi_overbought:70, bb_period:20, bb_std:1.95, ema_fast:9, ema_slow:24`) and weights (`0.21 / 0.23 / 0.56`). Similarly, `XGB-Alpha-3-15M` and `30M` share identical parameters and weights (`0.10 / 0.20 / 0.70`).\n- **EMA Monoculture Risk:** Across the 6 Neural AccuracyOpt models (`Gen68–Gen73`) and 2 XGB models, **`ema_weight` dominates at 0.51–0.73**, while `rsi_weight` is suppressed (`0.10–0.21`) and `bb_weight` sits at `0.17–0.28`. All 6 Neural models show identical trade counts (`217 BTC, 189 ETH, 132 SOL`) and identical win rates (`88% BTC/ETH, 80% SOL`), indicating **severe genetic convergence** rather than independent alpha streams. Only the two `RSI-Reversion` models provide genuine RSI-dominant diversification (`0.40–0.50`).\n\n### Isolated Solo Pine Omni-TF Verification\n- **Current Count: 0 Isolated Solo Pine Strategies.** No standalone TradingView Pine scripts are currently active, so there is no immediate unblended Pine interference. However, **executed signals show cross-timeframe drift and legacy artifacts**: Signals `#1, #4, #7` (`Hermes-BB-Breakout-*`) and `#41–#44` (`Neural-Gen4/Gen8/Gen29`) are not in the current 12-strategy roster, and signals like `Hermes-RSI-Reversion-30M-60M` and `Hermes-XGB-Alpha-3-15M-30M` executed off their native timeframe labels. When Solo Pine strategies are onboarded, enforce strict **Omni-TF Isolation** so they bypass Auto-Evolve genetic blending and remain hard-locked to their validated single optimal timeframe.\n\n---\n\n## 3. Execution & Risk Vulnerability Scan\n\n- **Correlated Exposure & Overfitting Risk:** With 6 nearly identical Neural-Gen models (`Gen68–73`) plus 2 EMA-heavy XGB models active simultaneously, a sharp range breakout driven by **Extreme Fear (`20/100`)** could trigger **8 simultaneous correlated entries** in the same direction. Furthermore, Sharpe ratios of `8.0–9.25` and a `95%` live 20-trade win rate warrant caution against overfit parameter clustering around `threshold_score: 6`.\n- **Asset Concentration & Pair Expectancy:**\n  - **BTC/USDT:** Strongest risk-adjusted anchor across all 12 models (including `PF 2.05–2.64` even on Momentum).\n  - **ETH/USDT:** Optimal across Neural/XGB/RSI (`PF 1.61–6.52`), but **unprofitable (`PF 0.88`)** on Momentum Gen76/95.\n  - **SOL/USDT:** Highest structural vulnerability. Every non-Momentum strategy lists SOL's `best_timeframe` as **`1 min`** with lower sample size (`132` trades vs `217` BTC / `189` ETH) and degraded win rates (`56%–80%`). Momentum Gen76/95 lose money on SOL (`PF 0.88`).\n- **1-Minute Timeframe Noise Risk:** Recent signals confirm that `1 min` executions (`Signal #1` ETH at `75% ML`, `Signal #5` SOL at `73% ML`) carry **14–26 percentage points lower ML confidence** than `15m/30m/60m` signals (`88%–99% ML`). Combining `1 min` microstructure noise with `350ms` latency, `0.4 pts` slippage, and Extreme Fear volatility creates the engine's primary drawdown vector (`11.0% Max DD` on Momentum vs `4.0%` on Neural/XGB-30M).\n\n---\n\n## 4. Actionable Optimization Directives\n\n1. **Prune & Restrict Momentum Clones Immediately:** Disable `Hermes-Momentum-Gen95-15M` (redundant clone of Gen76 with inferior PF `1.15` vs `1.23`), and either disable `Gen76-15M` during the Tokyo Range-Reversion session or firewall-exclude **ETH/USDT and SOL/USDT** on it (locking it strictly to `BTC/USDT` where `PF = 2.64`).\n2. **Consolidate Neural-Gen Monoculture:** Prune lower-PF duplicates (`Gen68, Gen69, Gen70, Gen72`) or cap concurrent capital allocation across the `Gen68–73` cluster, retaining **`Gen71` (PF 6.45, Sharpe 9.25)** and **`Gen73` (PF 6.06)** as primary Neural slots. Re-seed Auto-Evolve mutations to enforce `bb_weight >= 0.30` and `rsi_weight >= 0.25` for true range-reversion diversity.\n3. **Upgrade Global Execution Thresholds:**\n   - Raise `min_score` from **`6/10` to `8.0/10`**.\n   - Raise `min_win_probability` from **`65%` to `78%`** (eliminating low-conviction `73%–75%` 1m scalps).\n   - Tighten `slippage` tolerance for SOL/USDT (`<= 0.15 pts` or ~0.10%) and apply a **1m Timeframe Block** during `Extreme Fear (<25)` unless ML probability exceeds **`85%`**.\n4. **Enforce Timeframe & Solo Pine Governance:** Lock all active strategies to their validated optimal timeframes (`15 min` / `30 min` for BTC & ETH; suspend `1 min` SOL auto-execution under Extreme Fear) and ensure any future **Solo Pine** deployments are tagged `ISOLATED_OMNI_TF_LOCK` prior to activation.",
+    "recommendation": "Disable Momentum-Gen95/Gen76 on ETH/SOL, consolidate the redundant Neural-Gen68-73 cluster around top-performing Gen71 (PF 6.45) and Gen73 (PF 6.06), and raise global thresholds to Min Score 8.0/10 and Min ML Prob 78% to filter out 1-minute Extreme Fear noise.",
+    "modelUsed": "gemini-4-hydrogen",
+    "auditedAt": "2026-11-13T06:23:47.607Z"
+  }
+}
